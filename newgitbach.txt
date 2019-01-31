@@ -1,2 +1,3 @@
 tudo pelo gitbash
 sexto commit
+setimo commit editado pelo vs code
